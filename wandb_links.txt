@@ -1,0 +1,5 @@
+First experiment: https://wandb.ai/ntyazh-team/third_try
+Second experiment: https://wandb.ai/ntyazh-team/second_try
+Third experiment: https://wandb.ai/ntyazh-team/fifth_try
+Fourth experiment: https://wandb.ai/ntyazh-team/sixth_try
+
