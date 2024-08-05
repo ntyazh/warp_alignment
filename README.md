@@ -11,3 +11,4 @@ to improve the received result.
 
 You can load the final WARP weights that give the best reward from the link: https://drive.google.com/file/d/1Ag0xQGcNr-v7fCi7XFCQCZpbGDGUJDSt/view?usp=sharing.
 
+P.S. you can also view all wandb runs of the experiments with the links from the file "wandb_links.txt".
