@@ -9,5 +9,5 @@ It contains the whole WARP algorithm training:
 Moreover, there is a report where all the experiments are described in detail. It contains both the original implemetation from the paper and some attempts
 to improve the received result.
 
-The final WARP weights that give the best result are stored in the file "warp_model.pth".
+The final WARP weights that give the best reward are stored in the file "warp_model.pth".
 
